@@ -10,6 +10,7 @@ import java.util.Date;
 public abstract class Tweet implements Tweetable{
     private Date date;
     private String message;
+    private ArrayList<Mood> moods;
     //private String hiddenString
 
     public Date getDate() {
@@ -22,6 +23,10 @@ public abstract class Tweet implements Tweetable{
 
     public String getMessage() {
         return message;
+    }
+
+    public ArrayList<Mood> getMoods() {
+        return moods;
     }
 
     public Tweet(Date date, String message) throws TweetTooLongException {

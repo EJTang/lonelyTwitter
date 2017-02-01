@@ -4,6 +4,9 @@ import java.util.Date;
 
 /**
  * Created by ejtang on 1/17/17.
+ * This class allows users to input a mood they may be feeling
+ * The mood class is an abstract class and must be created with one of its
+ * sub classes.
  */
 
 public abstract class Mood {

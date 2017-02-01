@@ -4,6 +4,8 @@ import java.util.Date;
 
 /**
  * Created by ejtang on 1/17/17.
+ * Angry mood that is a subclass of mood
+ * sets the mood to angry
  */
 
 public class AngryMood extends Mood {

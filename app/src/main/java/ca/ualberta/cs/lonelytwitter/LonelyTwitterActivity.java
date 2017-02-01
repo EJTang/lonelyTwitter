@@ -137,6 +137,11 @@ public class LonelyTwitterActivity extends Activity {
         });
 	}
 
+	/**
+	 * Opens the file that contains all of our JSON elements so we can
+	 * retrieve the information place it into our adapter and set the adapter
+	 * to the information
+	 */
 	@Override
 	protected void onStart() {
 		// TODO Auto-generated method stub

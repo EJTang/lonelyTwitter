@@ -1,0 +1,7 @@
+#Mon Jan 30 20:51:54 MST 2017
+base.0=/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_139a1915bfa4978e82c8b0e440be55df899ace2b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18dd1a1908305e5dd04ef0b05eb777eb9e86be52/classes.dex
+base.1=/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18dd1a1908305e5dd04ef0b05eb777eb9e86be52
+file.0=/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_139a1915bfa4978e82c8b0e440be55df899ace2b/classes.dex

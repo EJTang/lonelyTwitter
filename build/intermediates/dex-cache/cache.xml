@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="df564327ef44013662a49458e2d3ba39b56e3b57">
+        <dex dex="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_18dd1a1908305e5dd04ef0b05eb777eb9e86be52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ejtang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_984c4df6490e3cd1412f7bddfbb6e820a6160203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b283f593455e1880bcc950b59f5baee06b3ed379">
+        <dex dex="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_139a1915bfa4978e82c8b0e440be55df899ace2b/classes.dex" />
+    </item>
+
+</items>

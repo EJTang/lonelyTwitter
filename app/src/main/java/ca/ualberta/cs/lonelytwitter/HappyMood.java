@@ -9,8 +9,10 @@ import java.util.Date;
  */
 public class HappyMood extends Mood {
     /**
-     * Instantiates a new Happy mood.
-     *
+     * Instantiates a new Happy mood with the date parameter
+     * calls the superclass with the String parameter "Happy"
+     * to indicate the mood for the tweet and also sets
+     * the date to a selected date instead of the current date
      * @param date the date
      */
     public HappyMood(Date date) {
@@ -19,6 +21,8 @@ public class HappyMood extends Mood {
 
     /**
      * Instantiates a new Happy mood.
+     * calls the superclass with the String parameter "Happy"
+     * to indicate the mood for the tweet
      */
     public HappyMood() {
         super("Happy");

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/src/main/assets"/><source path="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ejtang/AndroidStudioProjects/lonelyTwitter/app/src/debug/assets"/></dataSet></merger>
